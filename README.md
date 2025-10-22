@@ -113,7 +113,7 @@ Proje dizinine gidin:
 
 Bash
 
-cd [PROJE_ADINIZ]
+cd PaswordGenaratorConsoleApp
 Uygulamayı çalıştırın:
 
 Bash
