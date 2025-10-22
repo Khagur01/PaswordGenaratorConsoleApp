@@ -108,7 +108,7 @@ Bu repoyu klonlayın veya ZIP olarak indirin:
 
 Bash
 
-git clone https://github.com/[KULLANICI_ADINIZ]/[PROJE_ADINIZ].git
+git clone [https://github.com/[KULLANICI_ADINIZ]/[PROJE_ADINIZ].git](https://github.com/Khagur01/PaswordGenaratorConsoleApp.git)
 Proje dizinine gidin:
 
 Bash
